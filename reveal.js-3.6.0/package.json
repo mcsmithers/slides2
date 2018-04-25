@@ -49,6 +49,7 @@
         "d3-array": "^1.2.1",
         "d3-fetch": "^1.1.0",
         "datamaps": "^0.5.8",
+        "fscreen": "^1.0.2",
         "install": "^0.11.0",
         "isotope-layout": "^3.0.5",
         "lodash": "^4.17.5",
