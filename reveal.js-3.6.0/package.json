@@ -48,6 +48,7 @@
         "browserify": "^16.1.1",
         "d3-array": "^1.2.1",
         "d3-fetch": "^1.1.0",
+        "d3-svg-legend": "^2.25.6",
         "datamaps": "^0.5.8",
         "fscreen": "^1.0.2",
         "install": "^0.11.0",
@@ -60,6 +61,6 @@
         "reveald3": "^1.4.0",
         "revealjsd3js": "^1.0.0",
         "simple-weather": "^1.2.2",
-        "weather-icons": "^1.3.2"
+        "unsplash-js": "^4.8.0"
     }
 }
