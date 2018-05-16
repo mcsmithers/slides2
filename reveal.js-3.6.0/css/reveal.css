@@ -1707,10 +1707,6 @@ body {
  * PLAYBACK COMPONENT
  *********************************************/
 
-.playback {
-    display: none;
-}
-
 .reveal .playback {
     position: absolute;
     left: 15px;
@@ -1718,6 +1714,7 @@ body {
     z-index: 30;
     cursor: pointer;
     transition: all 400ms ease;
+    visibility: hidden;
     -webkit-tap-highlight-color: transparent;
 }
 
